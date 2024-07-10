@@ -1,0 +1,6 @@
+DV001
+Karaoke thuong
+200.0
+DV002
+Karaoke vip
+230.0

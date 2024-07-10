@@ -1,0 +1,24 @@
+F001
+Ga quay
+120.0
+false
+F002
+Bo
+150.0
+false
+F003
+Dau hu
+10.0
+true
+F004
+Tom chien xu
+200.0
+false
+F005
+Muc ne
+120.0
+false
+F006
+Vit quay
+140.0
+false

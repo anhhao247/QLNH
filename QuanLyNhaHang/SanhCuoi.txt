@@ -1,0 +1,25 @@
+S001
+Sanh A
+tang 1
+120
+2000.0
+S002
+Sanh B
+tang 1
+130
+2300.0
+S003
+Sanh C
+tang 2
+150
+2500.0
+S004
+Sanh D
+tang 2
+160
+2800.0
+S005
+Sanh VIP
+tang 2
+200
+3000.0
